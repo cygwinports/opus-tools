@@ -1,0 +1,9 @@
+NAME="opus-tools"
+VERSION=0.1.10
+RELEASE=1
+CATEGORY="Audio"
+SUMMARY="Command-line utilities for Opus media"
+DESCRIPTION="Opus-tools provides command-line utilities to encode, inspect,
+and decode .opus files."
+HOMEPAGE="http://www.opus-codec.org/"
+SRC_URI="http://downloads.xiph.org/releases/opus/opus-tools-${VERSION}.tar.gz"
